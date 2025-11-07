@@ -1,0 +1,9 @@
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/uninstall.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/mycobot_uninstall.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/test.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/edit_cache.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/rebuild_cache.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/list_install_components.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/install.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/install/local.dir
+/home/tejas/Desktop/ros_project/workspace/build/mycobot/CMakeFiles/install/strip.dir

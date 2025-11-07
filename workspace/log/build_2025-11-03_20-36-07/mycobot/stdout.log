@@ -1,0 +1,58 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tejas/Desktop/ros_project/workspace/build/mycobot
+-- Install configuration: ""
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/package.xml
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/mycobot_280_pi.urdf
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint3.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/G_base.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint2.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint4.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint6.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint3.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint4.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint2.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint7.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint1.stl
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint1.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint5.png
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint5.stl
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint6.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/urdf/meshes/joint7.dae
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/launch
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/launch/gazebo.launch.py
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/config
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/config/ros2_controllers.yaml
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/worlds
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/worlds/default.world
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/ament_index/resource_index/package_run_dependencies/mycobot
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/ament_index/resource_index/parent_prefix_path/mycobot
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/environment/ament_prefix_path.sh
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/environment/ament_prefix_path.dsv
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/environment/path.sh
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/environment/path.dsv
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/local_setup.bash
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/local_setup.sh
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/local_setup.zsh
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/local_setup.dsv
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/package.dsv
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/ament_index/resource_index/packages/mycobot
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/cmake/mycobotConfig.cmake
+-- Installing: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/cmake/mycobotConfig-version.cmake
+-- Up-to-date: /home/tejas/Desktop/ros_project/workspace/install/mycobot/share/mycobot/package.xml
